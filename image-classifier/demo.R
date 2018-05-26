@@ -1,5 +1,5 @@
 # First, install the keras R package from GitHub as follows:
-devtools::install_github("rstudio/keras")
+ devtools::install_github("rstudio/keras")
 
 # The Keras R interface uses the TensorFlow backend engine by default.
 # To install both the core Keras library as well as the TensorFlow backend use the install_keras() function:
